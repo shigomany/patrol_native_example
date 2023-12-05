@@ -1,0 +1,43 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - Flutter (1.0.0)
+  - HTTPParserC (2.9.4)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - patrol (0.0.1):
+    - Flutter
+    - Telegraph (~> 0.30.0)
+  - Telegraph (0.30.0):
+    - CocoaAsyncSocket (~> 7.6)
+    - HTTPParserC (~> 2.9)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - patrol (from `.symlinks/plugins/patrol/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - HTTPParserC
+    - Telegraph
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  patrol:
+    :path: ".symlinks/plugins/patrol/ios"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  HTTPParserC: aea14c3d2d4ac5beb3988781daa36dfa62e0d9ef
+  image_picker_ios: 4a8aadfbb6dc30ad5141a2ce3832af9214a705b5
+  patrol: 792c0bb6cc4d552fc8b37f49266341c39e659b4d
+  Telegraph: 12576b119324138e4929792af9e5a1085c2ecbc1
+
+PODFILE CHECKSUM: 27289e3e9b0e553800b1f46a093481976938a511
+
+COCOAPODS: 1.14.3

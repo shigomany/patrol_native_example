@@ -15,6 +15,6 @@ patrol develop -t integration_test/example_test.dart --verbose
 
 ## Unicode Error
 
-![image](https://prnt.sc/pIuQPLCZW3SG)
+![image](/resources/image1.png)
 
-![image2](https://prnt.sc/F9Qb1n_mgGkz)
+![image2](/resources/image2.png)
